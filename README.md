@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=Asin-Junior-Honore&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently **working on School Website**
 - 🌱 I’m currently **learning NextJS**
@@ -26,6 +26,6 @@ Passionate web designer & frontend developer🚀|CSS sorcerer & HTML maestro🎨
 ![](https://github-contributor-stats.vercel.app/api?username=Asin-Junior-Honore&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asin-Junior-Honore&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
