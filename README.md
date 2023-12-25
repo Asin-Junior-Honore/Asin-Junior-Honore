@@ -8,6 +8,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a  I thrive on a daily dose of creativity and caffeine. Whether crafting elegant code or designing visually stunning interfaces, you can often catch me in the act, fueled by the perfect blend of pixels and coffee. 🚀☕️
 
+## About Me
+Passionate web designer & frontend developer🚀|CSS sorcerer & HTML maestro🎨|Obsessed with clean code & pixel perfection✨|#webdesign #frontenddev #code
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Asin-Honore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asin-Honore) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Asin-Junior-Honore) 
 
