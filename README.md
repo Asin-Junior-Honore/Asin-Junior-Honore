@@ -6,7 +6,7 @@
 - 💬 Ask me about **Tech trends and personal Developments**
 - 📫 How to reach me: **asinhonore823@gmail.com**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a  I thrive on a daily dose of creativity and caffeine. Whether crafting elegant code or designing visually stunning interfaces, you can often catch me in the act, fueled by the perfect blend of pixels and coffee. 🚀☕️
+- ⚡ Fun fact:I thrive on a daily dose of creativity and caffeine. Whether crafting elegant code or designing visually stunning interfaces, you can often catch me in the act, fueled by the perfect blend of pixels and coffee. 🚀☕️
 
 ## About Me
 Passionate web designer & frontend developer🚀|CSS sorcerer & HTML maestro🎨|Obsessed with clean code & pixel perfection✨|#webdesign #frontenddev #code
