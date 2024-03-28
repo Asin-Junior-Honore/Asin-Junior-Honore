@@ -1,6 +1,6 @@
 ### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=Asin-Junior-Honore&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently **working on School Website**
+- 🔭 I’m currently **MERN APPLICATIONS**
 - 🌱 I’m currently **learning php**
 - 👯 I’m looking to collaborate on Frontend and Backend Dev projects
 - 💬 Ask me about **Tech trends and personal Developments**
