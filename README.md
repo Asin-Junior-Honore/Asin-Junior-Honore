@@ -23,7 +23,7 @@ I enjoy solving complex problems and developing robust solutions that make a dif
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -42,6 +42,16 @@ I enjoy solving complex problems and developing robust solutions that make a dif
 <br />
 
  <hr/>
+
+<div>
+  <h2>🧑‍💻 My Contributions 🧑‍💻</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false)
