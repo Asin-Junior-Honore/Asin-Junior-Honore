@@ -1,22 +1,48 @@
-### Hi there 👋  [![](https://visitcount.itsvg.in/api?id=Asin-Junior-Honore&icon=0&color=0)](https://visitcount.itsvg.in)
-
-- 🔭 I’m currently **working on MERN APPLICATIONS**
--🌱 I’m currently **learning backend development**
-- 👯 I’m looking to collaborate on Frontend and Backend Dev projects
-- 💬 Ask me about **Tech trends and personal Developments**
-- 📫 How to reach me: **asinhonore823@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:I thrive on a daily dose of creativity and caffeine. Whether crafting elegant code or designing visually stunning interfaces, you can often catch me in the act, fueled by the perfect blend of pixels and coffee. 🚀☕️
-
-## About Me
-Passionate web designer & frontend developer🚀|CSS sorcerer & HTML maestro🎨|Obsessed with clean code & pixel perfection✨|#webdesign #frontenddev #code
+<a href="https://visitcount.itsvg.in" align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Asin-Junior-Honore&icon=0&color=0" alt="Visitor Count" />
+</a>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Asin-Honore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asin-Honore) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Asin-Junior-Honore) 
+# 🏄‍♂️ Asin Honore
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+**`Digital Craftsman (FullStack-Developer/Webscraper/Data Analyst)`**
+
+I'm a Nigerian-based full-stack developer with a diverse skill set that includes web scraping, database management, backend development, PHP, and MySQL. My expertise lies in building clean, user-friendly software that enhances everyday experiences and drives business success. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), as well as PHP and MySQL, ensuring efficient and scalable web applications.
+
+With a strong foundation in both front-end and back-end technologies, I create seamless user interfaces while ensuring robust server-side functionality. My proficiency in PHP and MySQL allows me to develop dynamic web applications and manage complex databases effectively.
+
+I enjoy solving complex problems and developing robust solutions that make a difference. My passion for web scraping enables me to gather valuable data from the web, which informs business decisions, enhances user experiences, and drives innovation. I continually learn and adapt to new technologies and frameworks to stay at the forefront of the ever-evolving tech landscape.
+
+ <hr/>
+
+<div align="center"> 
+  <a href="mailto:asinhonore823@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Puppeteer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/puppeteer/puppeteer-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br />
+
+ <hr/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)<br/>
@@ -28,4 +54,4 @@ Passionate web designer & frontend developer🚀|CSS sorcerer & HTML maestro🎨
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
