@@ -9,9 +9,19 @@
 
 I'm a Nigerian-based full-stack developer with a diverse skill set that includes web scraping, database management, backend development, PHP, and MySQL. My expertise lies in building clean, user-friendly software that enhances everyday experiences and drives business success. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), as well as PHP and MySQL, ensuring efficient and scalable web applications.
 
-With a strong foundation in both front-end and back-end technologies, I create seamless user interfaces while ensuring robust server-side functionality. My proficiency in PHP and MySQL allows me to develop dynamic web applications and manage complex databases effectively.
+<details>
+  <summary><h3>👨‍💻 Read more</h3></summary>
+  
+  With a strong foundation in both front-end and back-end technologies, I create seamless user interfaces while ensuring robust server-side functionality. My proficiency in PHP and MySQL allows me to develop dynamic web applications and manage complex databases effectively.
 
-I enjoy solving complex problems and developing robust solutions that make a difference. My passion for web scraping enables me to gather valuable data from the web, which informs business decisions, enhances user experiences, and drives innovation. I continually learn and adapt to new technologies and frameworks to stay at the forefront of the ever-evolving tech landscape.
+  I enjoy solving complex problems and developing robust solutions that make a difference. My passion for web scraping enables me to gather valuable data from the web, which informs business decisions, enhances user experiences, and drives innovation. I continually learn and adapt to new technologies and frameworks to stay at the forefront of the ever-evolving tech landscape.
+
+  ### Additional Steps:
+  - Continue exploring new technologies and frameworks
+  - Collaborate with like-minded developers on open-source projects
+  - Attend tech conferences and workshops to expand knowledge
+
+</details>
 
  <hr/>
 
