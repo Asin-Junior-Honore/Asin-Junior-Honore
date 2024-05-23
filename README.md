@@ -3,7 +3,7 @@
 </a>
 
 
-# 🏄‍♂️ Asin Honore
+# 🏄‍♂️ Asin-Junior-Honore
 
 **`Digital Craftsman (FullStack-Developer/Webscraper/Data Analyst)`**
 
@@ -23,26 +23,29 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
   - Actively contribute to open-source projects and collaborate with developers worldwide
   - Regularly participate in tech communities, sharing knowledge and insights
   - Passionate about exploring emerging trends in web development and integrating them into projects
-  
-
 </details>
 
 
  <hr/>
 
+
+
 <div align="center"> 
   <a href="mailto:asinhonore823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/asin-honore-6427042a2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://asin-honore.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
+
  <hr/>
+
+
 
 ### 🧰 Languages and Tools
 
@@ -56,7 +59,8 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <br />
 
- <hr/>
+
+<hr/>
  
 
 <div>
