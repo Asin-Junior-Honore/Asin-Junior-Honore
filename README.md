@@ -5,7 +5,7 @@
 
 # 🏄‍♂️ Asin-Junior-Honore
 
-**`Digital Craftsman (FullStack-Developer/Webscraper/Data Analyst)`**
+**`Digital Craftsman (FullStack-Developer/Webscraper)`**
 
 I'm a Nigerian-based full-stack developer with a diverse skill set that includes web scraping, database management, backend development, . My expertise lies in building clean, user-friendly software that enhances everyday experiences and drives business success. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), as well as PHP and MySQL, ensuring efficient and scalable web applications.
 
@@ -70,6 +70,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
   
   <br/><br/><br/>
 </div>
+
 
 <hr/>
 
