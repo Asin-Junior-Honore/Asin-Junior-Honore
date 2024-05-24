@@ -68,11 +68,12 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
