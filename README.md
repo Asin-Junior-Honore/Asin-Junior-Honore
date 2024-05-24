@@ -30,7 +30,8 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 
 
-<div align="center"> 
+<div>
+  <h3>🧑‍💻 Connect With Me </h3>
   <a href="mailto:asinhonore823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -63,6 +64,23 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 <hr/>
  
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)<br/>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Asin-Junior-Honore&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+
 <div>
   <h2>🧑‍💻 My Contributions 🧑‍💻</h2>
   <br>
@@ -71,16 +89,6 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
   <br/><br/><br/>
 </div>
 
-
-<hr/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asin-Junior-Honore&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
