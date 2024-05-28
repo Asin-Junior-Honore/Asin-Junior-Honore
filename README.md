@@ -52,7 +52,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 <br/>
 <div>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,puppeteer" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,puppeteer,docker" /><br>
 </div>
 
 
