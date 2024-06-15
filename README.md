@@ -48,7 +48,8 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 
 
-<h3>🧰 Languages-Frameworks-Tools</h3>
+<div>
+  <h2>🧰 Languages-Frameworks-Tools</h2>
 <br/>
 <div>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,php,html,css,jest,github,figma,tailwind,git" />
@@ -57,6 +58,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,githubactions,docker" /><br>
 </div>
 
+</div>
 
 
 <hr/>
@@ -82,7 +84,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 
 <div>
-  <h3>🧑‍💻 My Contributions 🧑‍💻</h3>
+  <h2>🧑‍💻 My Contributions 🧑‍💻</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
