@@ -31,7 +31,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 
 <div>
-  <h3>🔗 Connect With Me </h3>
+  <h2>🔗 Connect With Me </h2>
   <a href="mailto:asinhonore823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -82,7 +82,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 
 <div>
-  <h3>💹 My Contributions</h3>
+  <h3>🧑‍💻 My Contributions 🧑‍💻</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
