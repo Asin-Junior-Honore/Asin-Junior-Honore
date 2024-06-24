@@ -85,7 +85,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 <div>
   <h2>🧑‍💻 My Contributions 🧑‍💻</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg" />
+  <img alt="🧑‍💻snake-eating-my-contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg"/>
   <br/>
 </div>
 
