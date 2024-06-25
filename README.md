@@ -49,7 +49,7 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
 
 
 <div>
-  <h2>🧰 Languages - Frameworks - Tools</h2>
+  <h2>🧰 Languages-Frameworks-Tools</h2>
 <br/>
 <div>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,php,html,css,jest,github,figma,tailwind,git" />
