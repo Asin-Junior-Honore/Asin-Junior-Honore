@@ -1,4 +1,4 @@
-<a href="https://visitcount.itsvg.in" align="right">
+<a href="https://visitcount.itsvg.in" align="left">
   <img src="https://visitcount.itsvg.in/api?id=Asin-Junior-Honore&icon=0&color=0" alt="Visitor Count-🧑‍💻" />
 </a>
 
