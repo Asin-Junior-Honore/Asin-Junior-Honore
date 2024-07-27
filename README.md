@@ -29,6 +29,10 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
  <hr/>
 
 
+ ![Asin-Junior-Honore](https://github.com/user-attachments/assets/513940d9-ba58-4df5-8e3c-74d6598ceb25)
+
+
+
 
 <div>
   <h2>🔗 Connect With Me </h2>
