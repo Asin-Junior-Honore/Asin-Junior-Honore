@@ -32,10 +32,13 @@ I'm a Nigerian-based full-stack developer with a diverse skill set that includes
  ![Asin-Junior-Honore](https://github.com/user-attachments/assets/513940d9-ba58-4df5-8e3c-74d6598ceb25)
 
 
+ <hr/>
 
 
 <div>
   <h2>🔗 Connect With Me </h2>
+
+  
   <a href="mailto:asinhonore823@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
