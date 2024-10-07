@@ -57,10 +57,10 @@ In addition to my development expertise, I freelance, providing tailored web sol
   <h2>🧰 Languages-Frameworks-Tools</h2>
 <br/>
 <div>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,php,html,css,jest,github,figma,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,php,html,css,jest,github,figma,tailwind,git,nestjs,postgres" />
 <br/>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,githubactions,docker" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs,mysql,githubactions,docker,sequelize" /><br>
 </div>
 
 </div>
