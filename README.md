@@ -72,11 +72,22 @@ In addition to my development expertise, I freelance, providing tailored web sol
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<div>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false" alt="GitHub Streak Stats">
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)
 
 
 
@@ -87,11 +98,12 @@ In addition to my development expertise, I freelance, providing tailored web sol
 
 
 
-[![Asin-Junior-Honore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asin-Junior-Honore&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   # 🧑‍💻 My Contributions
   <img alt="🧑‍💻snake-eating-my-contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg"/>
   <br/>
+
+  [![Asin-Junior-Honore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asin-Junior-Honore&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
