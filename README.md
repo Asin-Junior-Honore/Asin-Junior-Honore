@@ -87,7 +87,7 @@ In addition to my development expertise, I freelance, providing tailored web sol
 
 
 
-
+[![Asin-Junior-Honore's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asin-Junior-Honore&bg_color=1e1e2e&color=94e2d5&line=c19eeb&point=94e2d5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   # 🧑‍💻 My Contributions
   <img alt="🧑‍💻snake-eating-my-contributions" src="https://raw.githubusercontent.com/Asin-Junior-Honore/Asin-Junior-Honore/output/github-contribution-grid-snake.svg"/>
