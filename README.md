@@ -2,6 +2,8 @@
 
 
 
+
+
 # 🏄‍♂️ Asin-Junior-Honore
 
 **`Digital Craftsman (FullStack-Developer/Webscraper)`**
@@ -41,6 +43,9 @@ In addition to my development expertise, I freelance, providing tailored web sol
   <a href="https://asin-honore.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  <a href="https://buymeacoffee.com/asinhonore" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buymeacoffee">
+</a>
 </div>
 
 
@@ -76,7 +81,6 @@ In addition to my development expertise, I freelance, providing tailored web sol
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asin-Junior-Honore&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asin-Junior-Honore&theme=react&hide_border=false)
-
 
 
 
