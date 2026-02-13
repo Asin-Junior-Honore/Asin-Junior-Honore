@@ -48,6 +48,13 @@ In addition to my development expertise, I freelance, providing tailored web sol
 </a>
 </div>
 
+# 🌐 Scraping & Proxies
+
+[![Scraping with Reliable Proxies](https://img.shields.io/badge/Scraping-Proxies-blue?style=for-the-badge&logo=databricks&logoColor=white)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=1943)
+
+> Power your web scraping and data extraction projects with reliable, high-performance proxies.
+
+
 
  <hr/>
  
